@@ -9,7 +9,7 @@
         "../sass/components/_logo.scss",
         "../sass/components/_buttons.scss",
         "../sass/components/_section-hero.scss",
-        "../sass/components/section-features.scss",
+        "../sass/components/_section-features.scss",
         "../sass/components/_section-specialization.scss",
         "../sass/components/_section-team.scss",
         "../sass/components/_clients.scss",
