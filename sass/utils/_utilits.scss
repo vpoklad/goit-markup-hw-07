@@ -40,10 +40,15 @@ html{
     width: 1px !important;
     overflow: hidden;
   }
+  
   .section {
     padding-top: 94px;
     padding-bottom: 94px;
   }
+  .section--no-padding-top {
+    padding-top: 0;
+  }
+
   .section-title {
     font-weight: 700;
     font-size: 36px;
