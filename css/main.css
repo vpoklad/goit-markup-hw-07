@@ -546,6 +546,9 @@ img {
   -webkit-box-align: baseline;
       -ms-flex-align: baseline;
           align-items: baseline;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .footer__item {
@@ -553,11 +556,7 @@ img {
       flex-basis: calc((50% - 45px) / 2);
 }
 
-.footer__item:not(:last-child) {
-  margin-right: 30px;
-}
-
-.footer__item .footer__item--subsribe {
+.footer__item--subsribe {
   -ms-flex-preferred-size: calc(50% - 15px);
       flex-basis: calc(50% - 15px);
 }
